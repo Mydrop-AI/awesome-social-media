@@ -72,6 +72,7 @@
 - [Figma](https://www.figma.com) - Collaborative design tool to create social media graphics and templates.
 - [Adobe Creative Cloud](https://www.adobe.com/creativecloud.html) - Suite of design tools including Photoshop, Illustrator, and Premiere Pro.
 - [Sketch](https://www.sketch.com) - Digital design and prototyping tool for social media visuals.
+- [Social Media Specs](https://github.com/Mydrop-AI/social-media-specs) - Open JSON of caption limits, image sizes and 9:16 safe zones for 10 networks, maintained by Mydrop.
 
 ## Podcasts
 - [Social Media Marketing Podcast](https://www.socialmediaexaminer.com/shows) - Expert interviews and insights on social media marketing.
